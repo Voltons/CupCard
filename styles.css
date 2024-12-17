@@ -1,0 +1,44 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.perform{
+    background-color: lightsteelblue;
+}
+.cup{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    align-self: center;
+    border-radius: 5%;
+}
+.rate{
+    float: right;
+    margin-top: 40px;
+    margin-right: 1200px;
+}
+.add{
+    width: 120px;
+    height: 60px;
+    float: right;
+    margin-top: -100px;
+    margin-right: 1260px;
+    padding: 0;
+    border: 0;
+    background-color: azure;
+    border-radius: 10%;
+}
+.name{
+    margin-right: auto;
+    margin-left: 30px;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    background-color:lightgray;
+    margin-right: auto;
+    margin-left: 30px;
+    padding: 0.5%;
+    border-radius: 5%;
+}
